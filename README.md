@@ -29,6 +29,10 @@ ip a
 2. Проверяем что всё успешно скопировалось  
 <img width="785" height="157" alt="image" src="https://github.com/user-attachments/assets/47438c6f-cd23-4332-bf4a-4fc39158bb49" />
 
+3. Копируем файлы с сервера на локальную машину и проверяем:  
+<img width="1049" height="120" alt="image" src="https://github.com/user-attachments/assets/2c61a39c-fd2a-466b-ad09-2272ee07cea4" />
+<img width="373" height="87" alt="image" src="https://github.com/user-attachments/assets/1b120bfc-dae7-41ba-b921-fcd55669af2b" />
+
 ## Работа с ключами ssh
 1. Генерируем ключи
 <img width="724" height="164" alt="image" src="https://github.com/user-attachments/assets/fdcd8a77-eb4b-4a30-83af-99270838c99b" />
@@ -36,7 +40,7 @@ ip a
 2. Закидываем публичный ключ на сервер
 <img width="989" height="65" alt="image" src="https://github.com/user-attachments/assets/f18cb4ad-0e7a-494c-b738-d01379e94ee3" />
 
-Проверка:
+Проверка:   
 <img width="822" height="69" alt="image" src="https://github.com/user-attachments/assets/3c9bd8e3-5b1a-4679-8246-757a9ad342e5" />
 
 4. Добавляем настройку хоста в config
